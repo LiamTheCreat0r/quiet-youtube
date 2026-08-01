@@ -134,8 +134,7 @@ html.minimal-youtube ytd-mini-guide-renderer,
 html.minimal-youtube #related,
 html.minimal-youtube tp-yt-app-drawer,
 html.minimal-youtube .ytd-masthead #buttons,
-html.minimal-youtube #guide-button,
-html.minimal-youtube [class="style-scope ytd-comments"] {
+html.minimal-youtube #guide-button {
     display: none !important;
 }
 

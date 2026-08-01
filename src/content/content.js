@@ -4,7 +4,7 @@ let oldHref = document.location.href;
 chrome.storage.local.get("enabled", (data) => {
     const enabled = typeof data.enabled === "undefined" ? true : !!data.enabled;
     if (enabled) {
-        addMinimalYoutubeClassToHtml();
+        addQuietYoutubeClassToHtml();
         window.onload = init();
         return;
     }
@@ -102,9 +102,9 @@ function removeUnreadCountFromTitle() {
     document.title = newTitle;
 }
 
-function addMinimalYoutubeClassToHtml() {
+function addQuietYoutubeClassToHtml() {
     let root = document.documentElement;
-    root.className += " minimal-youtube";
+    root.className += " quiet-youtube";
 }
 
 function displayBody() {

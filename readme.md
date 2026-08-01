@@ -10,7 +10,7 @@ Quiet YouTube is an extension that replaces the YouTube UI with a minimal design
 </p>
 
 ## Installation (Chrome or Microsoft Edge)
-- **Fork** this repo, then **clone your forked repo locally**.
+- **[Download](https://github.com/LiamTheCreat0r/quiet-youtube/releases/download/v1.3.0/quiet-youtube-1.3.0.zip)** the zip from the Github Releases.
 - **Open [the extensions page](chrome://extensions)** in Chrome: `chrome://extensions`.
 - If you did not do it already, **toggle the "developer mode"**. This is usually a toggle button at the top right of the extensions page.
 - Click the button **_load unpacked extension_**.
@@ -18,7 +18,7 @@ Quiet YouTube is an extension that replaces the YouTube UI with a minimal design
 - **Done!** A new extension called _Quiet Youtube_ should have appeared in the list.
 
 ## Installation (Firefox)
-- **Fork** this repo, then **clone your forked repo locally**.
+- **[Download](https://github.com/LiamTheCreat0r/quiet-youtube/releases/download/v1.3.0/quiet-youtube-1.3.0.zip)** the zip from the Github Releases.
 - **Open the temporary extensions page** in Firefox: `about:debugging#/runtime/this-firefox`
 - Click the button **_Load Temporary Add-on..._**
 - In the window that pops up, **select the folder that contains the downloaded extension**, then **click _ok_**.

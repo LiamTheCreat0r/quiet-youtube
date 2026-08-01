@@ -2,7 +2,7 @@
     "manifest_version": 3,
 
     "name": "Quiet YouTube",
-    "version": "1.2.1",
+    "version": "1.3.0",
     "description": "An extension for that replaces the YouTube UI with a minimal design containing no recommendations, shorts, or distractions.",
     "author": "Ephraim Atta-Duncan",
 
